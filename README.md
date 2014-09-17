@@ -10,6 +10,7 @@ SocialXE Client Moudle
 The MIT License
 
 Copyright (C) 2014 Beom Jinhyeok
+
 Copyright (c) 2010 SeungYeop Shin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
