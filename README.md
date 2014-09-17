@@ -1,4 +1,4 @@
-## SOCIALXE CLIENT
+## SocialXE Client
 
 SocialXE Client Moudle
 
