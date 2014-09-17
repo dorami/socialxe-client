@@ -1,5 +1,5 @@
 ## SocialXE Client
-SocialXE Client Moudle
+SocialXE Client Module
 
 ## Translators
 * Japanese : SeklutZ
