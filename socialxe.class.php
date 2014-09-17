@@ -9,6 +9,7 @@
 	require_once(_XE_PATH_.'modules/socialxe/provider.me2day.php');
 	require_once(_XE_PATH_.'modules/socialxe/provider.facebook.php');
 	require_once(_XE_PATH_.'modules/socialxe/provider.yozm.php');
+	require_once(_XE_PATH_.'modules/socialxe/provider.google.php');
 	require_once(_XE_PATH_.'modules/socialxe/socialcomment.item.php');
 
 	class socialxe extends ModuleObject {

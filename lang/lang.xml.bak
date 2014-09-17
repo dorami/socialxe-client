@@ -344,9 +344,5 @@
 			<value xml:lang="ko"><![CDATA[페이스북]]></value>
 			<value xml:lang="en"><![CDATA[Facebook]]></value>
 		</item>
-		<item name="google">
-			<value xml:lang="ko"><![CDATA[구글]]></value>
-			<value xml:lang="en"><![CDATA[Google]]></value>
-		</item>
 	</item>
 </lang>
