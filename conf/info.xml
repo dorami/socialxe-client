@@ -5,9 +5,9 @@
 	<title xml:lang="jp">SocialXE</title>
 	<title xml:lang="zh-TW">SocialXE</title>
 	<description xml:lang="ko">소셜 기능 사용을 지원합니다.</description>
-	<description xml:lang="en">Support SNS function using.(transltated by misol)</description>
-	<description xml:lang="jp">ソーシャル機能使用をサポートします。(translated by SeklutZ)</description>
-	<description xml:lang="zh-TW">提供社交功能。(translated by royallin)</description>
+	<description xml:lang="en">Support SNS function using.</description>
+	<description xml:lang="jp">ソーシャル機能使用をサポートします。</description>
+	<description xml:lang="zh-TW">提供社交功能。</description>
 	<version>1.0.11</version>
 	<date>2013-6-25</date>
 	<category>accessory</category>

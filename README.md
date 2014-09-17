@@ -1,4 +1,8 @@
-socialxe-client
-===============
+## SOCIALXE CLIENT
 
-Socialxe Client
+SocialXE Client Moudle
+
+## Translators
+* Japanese : SeklutZ
+* English : misol
+* Taiwanese : royallin
