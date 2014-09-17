@@ -229,7 +229,7 @@
 		}
 
 		// 입력창 컴파일
-		function procCompileInput(){
+		function procSocialxeCompileInput(){
 			$this->add('output', $this->_compileInput());
 		}
 
@@ -248,7 +248,7 @@
 		}
 
 		// info 컴파일
-		function procCompileInfo(){
+		function procSocialxeCompileInfo(){
 			$this->add('output', $this->_compileInfo());
 		}
 
@@ -266,7 +266,7 @@
 		}
 
 		// 목록 컴파일
-		function procCompileList(){
+		function procSocialxeCompileList(){
 			$this->add('output', $this->_compileList());
 		}
 
@@ -286,7 +286,7 @@
 		}
 
 		// 대댓글 컴파일
-		function procCompileSubList(){
+		function procSocialxeCompileSubList(){
 			$skin = Context::get('skin');
 			$document_srl = Context::get('document_srl');
 			$comment_srl = Context::get('comment_srl');
@@ -643,7 +643,7 @@
 		}
 
 		// 내 소셜 설정으로 초기화
-		function procResetSocialInfo(){
+		function procSocialxeResetSocialInfo(){
 			$skin = Context::get('skin');
 
 			// 로그인되어 있지 않으면 중지
