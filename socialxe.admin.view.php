@@ -26,7 +26,12 @@
 
 			// 템플릿 파일 지정
 			$this->setTemplatePath($this->module_path.'tpl');
-			$this->setTemplateFile('index');
+			if(version_compare(__ZBXE_VERSION__, '1.7.0', '>=')) {
+				$this->setTemplateFile('index');
+			}
+			else {
+				$this->setTemplateFile('index.1.5');
+			}
 		}
 
 		// bit.ly 통계
